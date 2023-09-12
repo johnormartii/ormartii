@@ -1,5 +1,3 @@
-# ormartii
-my details 
 void main() {
   var name = ("john ormartii sholoi"); //string
   print(name);
